@@ -1,2 +1,7 @@
+.ipynb_checkpoints
+
+whd_data_dictionary.csv
+whd_metadata.csv
+whd_whisard.csv
 
 .DS_Store
